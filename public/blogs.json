@@ -1,53 +1,43 @@
 [
     {
       "id": 1,
-      "cover": "https://ibb.co/nwvjLk1",
+      "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
       "title": "The Mystery of Moonlight Manor",
       "author": "Evelyn Darkwood",
-      "author-img": "https://ibb.co/FVWt1YM",
+      "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
       "posted_date": "2024-03-12",
       "reading_time": 45,
-      "hashtags": ["mystery", "thriller", "suspense"]
+      "hashtags": ["mystery", "thriller"]
     },
     {
       "id": 2,
-      "cover": "https://ibb.co/nwvjLk1",
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
       "title": "Journey Through the Stars",
       "author": "Xander Astronaut",
-      "author-img": "https://example.com/author2.jpg",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
       "posted_date": "2024-03-10",
       "reading_time": 60,
-      "hashtags": ["sciencefiction", "adventure", "space"]
+      "hashtags": ["sciencefiction", "adventure"]
     },
     {
       "id": 3,
-      "cover": "https://ibb.co/nwvjLk1",
+      "cover": "https://i.ibb.co/RzGzcPg/3.png",
       "title": "Recipes from Grandma's Kitchen",
       "author": "Alice Baker",
-      "author-img": "https://ibb.co/FVWt1YM",
+      "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
       "posted_date": "2024-03-08",
       "reading_time": 30,
-      "hashtags": ["cookbook", "recipes", "family"]
+      "hashtags": ["cookbook", "recipes"]
     },
     {
       "id": 4,
-      "cover": "https://ibb.co/nwvjLk1",
+      "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
       "title": "Gardening Tips for Beginners",
       "author": "Sam Greenfingers",
-      "author-img": "https://example.com/author4.jpg",
+      "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
       "posted_date": "2024-03-05",
       "reading_time": 20,
-      "hashtags": ["gardening", "tips", "beginners"]
-    },
-    {
-      "id": 5,
-      "cover": "https://ibb.co/nwvjLk1",
-      "title": "The Art of Mindfulness",
-      "author": "Zen Master",
-      "author-img": "https://ibb.co/FVWt1YM",
-      "posted_date": "2024-03-02",
-      "reading_time": 15,
-      "hashtags": ["mindfulness", "meditation", "wellness"]
+      "hashtags": ["gardening", "tips"]
     }
   ]
   
