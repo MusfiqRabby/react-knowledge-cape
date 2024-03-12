@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://ibb.co/nwvjLk1",
+      "title": "The Mystery of Moonlight Manor",
+      "author": "Evelyn Darkwood",
+      "author-img": "https://ibb.co/FVWt1YM",
+      "posted_date": "2024-03-12",
+      "reading_time": 45,
+      "hashtags": ["mystery", "thriller", "suspense"]
+    },
+    {
+      "id": 2,
+      "cover": "https://ibb.co/nwvjLk1",
+      "title": "Journey Through the Stars",
+      "author": "Xander Astronaut",
+      "author-img": "https://example.com/author2.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 60,
+      "hashtags": ["sciencefiction", "adventure", "space"]
+    },
+    {
+      "id": 3,
+      "cover": "https://ibb.co/nwvjLk1",
+      "title": "Recipes from Grandma's Kitchen",
+      "author": "Alice Baker",
+      "author-img": "https://ibb.co/FVWt1YM",
+      "posted_date": "2024-03-08",
+      "reading_time": 30,
+      "hashtags": ["cookbook", "recipes", "family"]
+    },
+    {
+      "id": 4,
+      "cover": "https://ibb.co/nwvjLk1",
+      "title": "Gardening Tips for Beginners",
+      "author": "Sam Greenfingers",
+      "author-img": "https://example.com/author4.jpg",
+      "posted_date": "2024-03-05",
+      "reading_time": 20,
+      "hashtags": ["gardening", "tips", "beginners"]
+    },
+    {
+      "id": 5,
+      "cover": "https://ibb.co/nwvjLk1",
+      "title": "The Art of Mindfulness",
+      "author": "Zen Master",
+      "author-img": "https://ibb.co/FVWt1YM",
+      "posted_date": "2024-03-02",
+      "reading_time": 15,
+      "hashtags": ["mindfulness", "meditation", "wellness"]
+    }
+  ]
+  
